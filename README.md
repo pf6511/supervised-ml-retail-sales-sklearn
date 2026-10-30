@@ -1,4 +1,4 @@
-# supervised-ml-wallmart
+# supervised-ml-retail-sales-sklearn
 Supervised Machine Learning - Wallmart sells
 
 # WALLMART
