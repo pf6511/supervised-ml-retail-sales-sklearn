@@ -1,4 +1,4 @@
-# jedha-dts-ml-supervised-wallmart
+# supervised-ml-wallmart
 Supervised Machine Learning - Wallmart sells
 
 # WALLMART
